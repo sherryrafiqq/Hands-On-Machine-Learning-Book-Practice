@@ -1,0 +1,10 @@
+# Minimal Requirements for Hands-On Machine Learning Book Exercises
+# Just the essential packages to run the notebooks
+
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+folium
+jupyter
